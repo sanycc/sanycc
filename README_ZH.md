@@ -1,22 +1,23 @@
-<div align="center">
+<h1 align="center">三叶云程</h1>
 
-# 三叶云程
+<p align="center">
+  <strong>机器人运动规划 · 快速路径规划 · 在线轨迹规划 · 机器人系统集成</strong>
+</p>
 
-**机器人运动规划 · 快速路径规划 · 在线轨迹规划 · 机器人系统集成**
+<p align="center">
+  <a href="https://github.com/sanycc/sanycc/blob/main/README.md">English</a> ·
+  <a href="https://github.com/sanycc/sanycc/blob/main/README_ZH.md">中文</a>
+</p>
 
-[English](https://github.com/sanycc/sanycc/blob/main/README.md) · [中文](https://github.com/sanycc/sanycc/blob/main/README_ZH.md)
-
-<br>
-
-<img src="https://img.shields.io/badge/Research-Robot%20Motion%20Planning-0B5CAD?style=flat-square" alt="Robot Motion Planning">
-<img src="https://img.shields.io/badge/Focus-Fast%20Path%20Planning-2E7D32?style=flat-square" alt="Fast Path Planning">
-<img src="https://img.shields.io/badge/Focus-Online%20Trajectory%20Planning-00838F?style=flat-square" alt="Online Trajectory Planning">
-<img src="https://img.shields.io/badge/System-Robot%20Integration-6A1B9A?style=flat-square" alt="Robot Integration">
-<img src="https://img.shields.io/badge/HMI-Qt%20%7C%203D%20Simulation-455A64?style=flat-square" alt="Qt HMI and 3D Simulation">
-<img src="https://img.shields.io/badge/AI-Claude%20Code%20%7C%20Codex-111827?style=flat-square" alt="Claude Code and Codex">
-<img src="https://img.shields.io/badge/Platform-Real%20Robot%20Debugging-C62828?style=flat-square" alt="Real Robot Debugging">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Robot%20Motion%20Planning-0B5CAD?style=flat-square" alt="Robot Motion Planning">
+  <img src="https://img.shields.io/badge/Focus-Fast%20Path%20Planning-2E7D32?style=flat-square" alt="Fast Path Planning">
+  <img src="https://img.shields.io/badge/Focus-Online%20Trajectory%20Planning-00838F?style=flat-square" alt="Online Trajectory Planning">
+  <img src="https://img.shields.io/badge/System-Robot%20Integration-6A1B9A?style=flat-square" alt="Robot Integration">
+  <img src="https://img.shields.io/badge/HMI-Qt%20%7C%203D%20Simulation-455A64?style=flat-square" alt="Qt HMI and 3D Simulation">
+  <img src="https://img.shields.io/badge/AI-Claude%20Code%20%7C%20Codex-111827?style=flat-square" alt="Claude Code and Codex">
+  <img src="https://img.shields.io/badge/Platform-Real%20Robot%20Debugging-C62828?style=flat-square" alt="Real Robot Debugging">
+</p>
 
 ---
 
@@ -110,17 +111,13 @@
 
 ## GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanycc&show_icons=true&theme=default&hide_border=false" alt="GitHub 统计">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanycc&layout=compact&theme=default" alt="常用语言">
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanycc&amp;show_icons=true&amp;theme=default&amp;hide_border=false" alt="GitHub 统计">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanycc&amp;layout=compact&amp;theme=default" alt="常用语言">
+</p>
 
 ---
 
-<div align="center">
-
-**Robot Motion Planning · Fast Path Planning · Online Trajectory Planning · Real-Robot Debugging**
-
-</div>
+<p align="center">
+  <strong>Robot Motion Planning · Fast Path Planning · Online Trajectory Planning · Real-Robot Debugging</strong>
+</p>
