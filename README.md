@@ -109,15 +109,6 @@ Developed time-optimal joint-space trajectory planning algorithms and supported 
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanycc&amp;show_icons=true&amp;theme=default&amp;hide_border=false" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanycc&amp;layout=compact&amp;theme=default" alt="Top Languages">
-</p>
-
----
-
 <p align="center">
   <strong>Robot Motion Planning · Fast Path Planning · Online Trajectory Planning · Real-Robot Debugging</strong>
 </p>
